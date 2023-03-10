@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositório do Desafio GitHub DIO
 Iniciando aprendizado sobre repositórios no github pelo curso Dio
